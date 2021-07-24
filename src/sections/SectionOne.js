@@ -1,8 +1,6 @@
 import React from 'react';
 import sample from '../video.mp4';
-import {
-  Navbar, Container, Nav
-} from 'react-bootstrap';
+import logo from '../SpaceX-Logo-White.svg';
 
 const SectionOne = () => {
   return (
@@ -10,7 +8,7 @@ const SectionOne = () => {
       <nav className="navbar navbar-expand-lg">
         <div className="nav-div">
           <a className="navbar-brand" href="#">
-            <img src="/SpaceX-Logo-White.svg" alt="spacex logo" className="space-logo" />
+            <img src={logo} alt="spacex logo" className="space-logo" />
           </a>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span className="navbar-toggler-icon">

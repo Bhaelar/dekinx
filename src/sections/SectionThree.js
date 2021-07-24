@@ -1,4 +1,5 @@
 import React from 'react';
+import logo from '../SpaceX-Logo.svg';
 
 const SectionThree = () => {
   return (
@@ -61,7 +62,7 @@ const SectionThree = () => {
           <p className="s3-sm1-text" style={{color: '#959595'}}>© 2019 SPACE EXPLORATION TECHNOLOGIES CORP.</p>
         </div>
         <div className="col-md-4">
-          <img src="/SpaceX-Logo.svg" className="float-right space-logo" alt="spacex-logo" />
+          <img src={logo} className="float-right space-logo" alt="spacex-logo" />
         </div>
       </div>
     </div>
