@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dekinx/static/css/main.9b7714ec.chunk.css",
+    "main.js": "/dekinx/static/js/main.355d9b82.chunk.js",
+    "main.js.map": "/dekinx/static/js/main.355d9b82.chunk.js.map",
+    "runtime-main.js": "/dekinx/static/js/runtime-main.1da8156e.js",
+    "runtime-main.js.map": "/dekinx/static/js/runtime-main.1da8156e.js.map",
+    "static/js/2.aee8bba3.chunk.js": "/dekinx/static/js/2.aee8bba3.chunk.js",
+    "static/js/2.aee8bba3.chunk.js.map": "/dekinx/static/js/2.aee8bba3.chunk.js.map",
+    "static/js/3.e983e475.chunk.js": "/dekinx/static/js/3.e983e475.chunk.js",
+    "static/js/3.e983e475.chunk.js.map": "/dekinx/static/js/3.e983e475.chunk.js.map",
+    "index.html": "/dekinx/index.html",
+    "static/css/main.9b7714ec.chunk.css.map": "/dekinx/static/css/main.9b7714ec.chunk.css.map",
+    "static/js/2.aee8bba3.chunk.js.LICENSE.txt": "/dekinx/static/js/2.aee8bba3.chunk.js.LICENSE.txt",
+    "static/media/video.86d43533.mp4": "/dekinx/static/media/video.86d43533.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1da8156e.js",
+    "static/js/2.aee8bba3.chunk.js",
+    "static/css/main.9b7714ec.chunk.css",
+    "static/js/main.355d9b82.chunk.js"
+  ]
+}
