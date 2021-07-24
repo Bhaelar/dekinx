@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/delinx/static/css/main.9b7714ec.chunk.css",
-    "main.js": "/delinx/static/js/main.a29f2618.chunk.js",
-    "main.js.map": "/delinx/static/js/main.a29f2618.chunk.js.map",
+    "main.js": "/delinx/static/js/main.2f4188b5.chunk.js",
+    "main.js.map": "/delinx/static/js/main.2f4188b5.chunk.js.map",
     "runtime-main.js": "/delinx/static/js/runtime-main.fd339039.js",
     "runtime-main.js.map": "/delinx/static/js/runtime-main.fd339039.js.map",
     "static/js/2.a95d1586.chunk.js": "/delinx/static/js/2.a95d1586.chunk.js",
@@ -13,13 +13,13 @@
     "static/css/main.9b7714ec.chunk.css.map": "/delinx/static/css/main.9b7714ec.chunk.css.map",
     "static/js/2.a95d1586.chunk.js.LICENSE.txt": "/delinx/static/js/2.a95d1586.chunk.js.LICENSE.txt",
     "static/media/SpaceX-Logo-White.3ab442ec.svg": "/delinx/static/media/SpaceX-Logo-White.3ab442ec.svg",
-    "static/media/SpaceX-Logo.31d6cfe0.svg": "/delinx/static/media/SpaceX-Logo.31d6cfe0.svg",
+    "static/media/SpaceX-Logo.6fe0275f.svg": "/delinx/static/media/SpaceX-Logo.6fe0275f.svg",
     "static/media/video.86d43533.mp4": "/delinx/static/media/video.86d43533.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.fd339039.js",
     "static/js/2.a95d1586.chunk.js",
     "static/css/main.9b7714ec.chunk.css",
-    "static/js/main.a29f2618.chunk.js"
+    "static/js/main.2f4188b5.chunk.js"
   ]
 }
